@@ -1,5 +1,4 @@
 /* eslint-disable no-unused-vars */
-import './App.css';
 import React from 'react'
 import { useState, useEffect } from 'react';
 import uniqid from 'uniqid';
