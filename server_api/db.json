@@ -1,0 +1,14 @@
+{
+  "contacts": [
+    {
+      "id": "lgjg3laz",
+      "name": "test-Case 1",
+      "email": "testcase1@gmail.com"
+    },
+    {
+      "id": "lgjh5jqe",
+      "name": "test-Case 2",
+      "email": "testcase2@gmail.com"
+    }
+  ]
+}
